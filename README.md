@@ -26,20 +26,20 @@ The list of possible faults which can occur for the center bottle:
 ## Results
 Classification results for set of images for each individual fault:
 
-Fault Type         | # Images | # Faults Detected | Classification %
------------------- | -------- | ----------------- | ----------------
-Bottle Cap Missing | 10       | 10                | 100%
-Bottle Deformed    | 10       | 9                 | 90%
-Bottle Missing     | 11       | 11                | 100%
-Bottle Overfilled  | 10       | 10                | 100%
-Bottle Underfilled | 10       | 10                | 100%
-Label Missing      | 10       | 10                | 100%
-Label Not Printed  | 10       | 10                | 100%
-Label Not Stright  | 10       | 10                | 100%
-Multiple Faults    | 10       | 9                 | 90%
+__Fault Type__     | __# Images__ | __# Faults Detected__ | __Classification %__
+------------------ | ------------ | --------------------- | --------------------
+Bottle Cap Missing | 10           | 10                    | ___100%___
+Bottle Deformed    | 10           | 9                     | ___90%___
+Bottle Missing     | 11           | 11                    | ___100%___
+Bottle Overfilled  | 10           | 10                    | ___100%___
+Bottle Underfilled | 10           | 10                    | ___100%___
+Label Missing      | 10           | 10                    | ___100%___
+Label Not Printed  | 10           | 10                    | ___100%___
+Label Not Stright  | 10           | 10                    | ___100%___
+Multiple Faults    | 10           | 9                     | ___90%___
 
 Classification results for set of all 141 images:
 
-Fault Type         | # Images | # Faults Detected | Classification %
------------------- | -------- | ----------------- | ----------------
-All                | 141      | 139               | 98.58%
+__Fault Type__     | __# Images__ | __# Faults Detected__ | __Classification %__
+------------------ | ------------ | --------------------- | --------------------
+All                | 141          | 139                   | ___98.58%___
